@@ -1,4 +1,4 @@
-# 2017-Vid-konf-pub-talks
+# 2017-divpub
 
 Copies of slides & posters presented at various conferences in 2017:
 
